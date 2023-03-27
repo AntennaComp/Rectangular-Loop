@@ -1,0 +1,86 @@
+solid Substrate:Substrate
+  facet normal 0.000000e+00 7.384843e-43 -7.790156e+02
+    outer loop
+      vertex 1.550000e+00 -1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 7.384843e-43 -7.788037e+02
+    outer loop
+      vertex 1.550000e+00 -1.000000e+02 1.000000e+02
+      vertex 1.550000e+00 1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 7.384843e-43 -7.790156e+02
+    outer loop
+      vertex 1.550000e+00 1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.790781e+02
+    outer loop
+      vertex 1.550000e+00 1.000000e+02 -1.000000e+02
+      vertex 1.550000e+00 -1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.790156e+02
+    outer loop
+      vertex 0.000000e+00 -1.000000e+02 1.000000e+02
+      vertex 1.550000e+00 -1.000000e+02 -1.000000e+02
+      vertex 1.550000e+00 -1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.788906e+02
+    outer loop
+      vertex 0.000000e+00 -1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 -1.000000e+02
+      vertex 1.550000e+00 -1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 7.384843e-43 -7.788037e+02
+    outer loop
+      vertex 0.000000e+00 1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.785469e+02
+    outer loop
+      vertex 0.000000e+00 1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 -1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 1.403631e+13 -1.700060e+25
+    outer loop
+      vertex 1.550000e+00 1.000000e+02 1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 7.384843e-43 -7.788037e+02
+    outer loop
+      vertex 1.550000e+00 1.000000e+02 1.000000e+02
+      vertex 1.550000e+00 1.000000e+02 -1.000000e+02
+      vertex 0.000000e+00 1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.789531e+02
+    outer loop
+      vertex 1.550000e+00 -1.000000e+02 1.000000e+02
+      vertex 1.550000e+00 1.000000e+02 -1.000000e+02
+      vertex 1.550000e+00 1.000000e+02 1.000000e+02
+    endloop
+  endfacet
+  facet normal 0.000000e+00 4.591214e-41 -7.790156e+02
+    outer loop
+      vertex 1.550000e+00 -1.000000e+02 1.000000e+02
+      vertex 1.550000e+00 -1.000000e+02 -1.000000e+02
+      vertex 1.550000e+00 1.000000e+02 -1.000000e+02
+    endloop
+  endfacet
+endsolid Substrate:Substrate
